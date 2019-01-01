@@ -1,4 +1,4 @@
-# monitoring
+# Prometheus/Grafana on docker
 
 Terraforming simple monitoring stack on docker
 
